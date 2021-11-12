@@ -1,4 +1,4 @@
-# <div align="center">Welcome!</div> 👋🏻<br>
+# <div align="center">Welcome!👋🏻</div><br>
 Welcome to my GitHub repository. Here, you'll see me be stupid, probably have weird ideas of mine. <br>
 
 # Stats <br>
