@@ -10,4 +10,6 @@ Welcome to my GitHub repository. Here, you'll see me be stupid, probably have we
 </p>
 
 # Contact me!
-<a href="https://discord.gg/RSAetqdhRU"><img src="https://img.shields.io/badge/Discord-JeffJrShim#2396?logo=discord&style=for-the-badgel" /></a>
+<p align="center">
+<img alt="Discord" src="https://img.shields.io/discord/843353550872379414?color=Black&label=My%20Discord%20Server&logo=Discord">
+</p>
