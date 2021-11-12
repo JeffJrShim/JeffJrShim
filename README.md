@@ -9,3 +9,5 @@ Welcome to my GitHub repository. Here, you'll see me be stupid, probably have we
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffJrShim&show_icons=true&theme=dark&count_private=true" /></a>
 </p>
 
+# Contact me!
+<a href="https://discord.gg/RSAetqdhRU"><img src="https://img.shields.io/badge/Discord-JeffJrShim#2396?logo=discord&style=for-the-badgel" /></a>
