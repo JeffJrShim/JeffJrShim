@@ -1,5 +1,5 @@
 # <div align="center">Welcome👋</div><br>
-Welcome to my GitHub repository. Here, you'll see me be stupid, and probably weird ideas of mine. <br>
+Welcome to my GitHub profile. Here, you'll see me be stupid, and probably weird ideas of mine. <br>
 
 # <div align="center">Stats📊</div> <br>
 <p align="center">
